@@ -17,4 +17,3 @@ public class Task {
     private String title;
 }
 
-// 練習用のコメントです！この枝だけで有効なはず。
