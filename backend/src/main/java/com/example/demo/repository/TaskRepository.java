@@ -7,3 +7,5 @@ import com.example.demo.entity.Task;
 @Repository
 public interface TaskRepository extends JpaRepository<Task,Long>{
 }
+
+// 練習用のコメントです！この枝だけで有効なはず。
